@@ -1,6 +1,6 @@
-## backend
+# backend
 
-# Dependencies
+## Dependencies
 
 - express
 - nodemon
@@ -11,9 +11,9 @@
 - jsonwebtoken
 - vitest
 
-## frontend
+# frontend
 
-# Dependencies
+## Dependencies
 
 - react-router-dom
 - axios
