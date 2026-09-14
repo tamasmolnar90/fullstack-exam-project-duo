@@ -1,4 +1,7 @@
-# Node 24.19.0
+# Requirements
+
+- Node.js 24.19.0 or newer
+- PostgreSQL 18 or newer
 
 # BACKEND (Express)
 
