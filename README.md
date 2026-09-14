@@ -1,6 +1,6 @@
 # Node 24.19.0
 
-# BACKEND
+# BACKEND (Express)
 
 ## dependencies
 
@@ -13,7 +13,7 @@
 - jsonwebtoken
 - vitest
 
-# FRONTEND
+# FRONTEND (React)
 
 ## dependencies
 
