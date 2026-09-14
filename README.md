@@ -1,6 +1,8 @@
-# backend
+# Node 24.19.0
 
-## Dependencies
+# BACKEND
+
+## dependencies
 
 - express
 - nodemon
@@ -11,9 +13,9 @@
 - jsonwebtoken
 - vitest
 
-# frontend
+# FRONTEND
 
-## Dependencies
+## dependencies
 
 - react-router-dom
 - axios
