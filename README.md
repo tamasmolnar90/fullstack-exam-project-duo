@@ -1,6 +1,11 @@
-## backend
+# Requirements
 
-# Dependencies
+- Node.js 24.19.0 or newer
+- PostgreSQL 18 or newer
+
+# BACKEND (Express)
+
+## dependencies
 
 - express
 - nodemon
@@ -11,9 +16,9 @@
 - jsonwebtoken
 - vitest
 
-## frontend
+# FRONTEND (React)
 
-# Dependencies
+## dependencies
 
 - react-router-dom
 - axios
